@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KkilianJ
-- 👀 I’m interested in machine learning, deep learning, information retrival(especially pagerank, and topic modelling), and data science. 
-- 🌱 I’m currently learning reinforcement learning.
+- 🌱 Machine Learning & Computer Vision
+
 
 
 <!---
