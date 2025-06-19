@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KkilianJ
-- 🌱 Machine Learning & Computer Vision
+- 🌱 Machine Unlearning (机器厌学）
 
 
 
