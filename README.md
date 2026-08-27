@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KkilianJ
-- 🌱 Machine Unlearning (机器厌学）
+- 🌱 Machine Unlearning
 - Parallel Computing 
 
 
