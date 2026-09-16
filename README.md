@@ -1,6 +1,6 @@
 <img align="right" width="170" src="https://github.com/KkilianJ.png?size=400" alt="Kilian" />
 
-## Kilian Jiang &nbsp;·&nbsp; 江基连
+## Kilian Jiang
 
 **MSc Medical Informatics** — Amsterdam, NL
 
@@ -10,7 +10,7 @@ occasional parallel-computing experiment.
 
 <br clear="right" />
 
-<img src="assets/paw-divider.svg" alt="" width="100%" />
+---
 
 ### Projects
 
@@ -18,7 +18,7 @@ occasional parallel-computing experiment.
 - **[MedicalAI_Tutor](https://github.com/KkilianJ/MedicalAI_Tutor)** — medical imaging and AI
 - **function_detective** — private for now, still detecting
 
-<img src="assets/paw-divider.svg" alt="" width="100%" />
+---
 
 ### Contributions
 
