@@ -1,29 +1,27 @@
-<img align="right" width="170" src="https://github.com/KkilianJ.png?size=400" alt="Kilian" />
+<img src="assets/header.svg" alt="Kilian Jiang — MSc Medical Informatics, Amsterdam" width="100%" />
 
-## Kilian Jiang
+<img align="right" width="150" src="https://github.com/KkilianJ.png?size=400" alt="" />
 
-**MSc Medical Informatics** — Amsterdam, NL
-
-I work on **machine unlearning**: making models forget data they should never
-have learned in the first place. Also medical imaging, health data, and the
-occasional parallel-computing experiment.
+I work on **machine unlearning** — making models forget data they should never
+have learned in the first place. Medical imaging and health data the rest of
+the time, and a running argument with parallel computing.
 
 <br clear="right" />
 
----
+<img src="assets/rule.svg" alt="" width="100%" />
 
 ### Projects
 
-- **[Thesis](https://github.com/KkilianJ/Thesis)** — analysing 2024 US election data
-- **[MedicalAI_Tutor](https://github.com/KkilianJ/MedicalAI_Tutor)** — medical imaging and AI
-- **function_detective** — private for now, still detecting
+**[Thesis](https://github.com/KkilianJ/Thesis)**<br />
+Analysing 2024 US election data.<br />
+`Jupyter` `Python`
 
----
+**[MedicalAI_Tutor](https://github.com/KkilianJ/MedicalAI_Tutor)**<br />
+Medical imaging and AI, from the MSc Medical Informatics track.<br />
+`Python` `MIT`
 
-### Contributions
+**function_detective**<br />
+Private for now. Still detecting.<br />
+`Python`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KkilianJ/KkilianJ/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KkilianJ/KkilianJ/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/KkilianJ/KkilianJ/output/github-snake.svg" width="100%" />
-</picture>
+<img src="assets/rule.svg" alt="" width="100%" />
