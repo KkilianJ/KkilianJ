@@ -1,9 +1,29 @@
-- 👋 Hi, I’m @KkilianJ
-- 🌱 Machine Unlearning
-- Parallel Computing 
+<img align="right" width="170" src="https://github.com/KkilianJ.png?size=400" alt="Kilian" />
 
+## Kilian Jiang &nbsp;·&nbsp; 江基连
 
-<!---
-KkilianJ/KkilianJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**MSc Medical Informatics** — Amsterdam, NL
+
+I work on **machine unlearning**: making models forget data they should never
+have learned in the first place. Also medical imaging, health data, and the
+occasional parallel-computing experiment.
+
+<br clear="right" />
+
+<img src="assets/paw-divider.svg" alt="" width="100%" />
+
+### Projects
+
+- **[Thesis](https://github.com/KkilianJ/Thesis)** — analysing 2024 US election data
+- **[MedicalAI_Tutor](https://github.com/KkilianJ/MedicalAI_Tutor)** — medical imaging and AI
+- **function_detective** — private for now, still detecting
+
+<img src="assets/paw-divider.svg" alt="" width="100%" />
+
+### Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KkilianJ/KkilianJ/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KkilianJ/KkilianJ/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/KkilianJ/KkilianJ/output/github-snake.svg" width="100%" />
+</picture>
