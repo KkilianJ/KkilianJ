@@ -14,14 +14,9 @@ the time, and a running argument with parallel computing.
 
 **[Thesis](https://github.com/KkilianJ/Thesis)**<br />
 Analysing 2024 US election data.<br />
-`Jupyter` `Python`
 
 **[MedicalAI_Tutor](https://github.com/KkilianJ/MedicalAI_Tutor)**<br />
 Medical imaging and AI, from the MSc Medical Informatics track.<br />
-`Python` `MIT`
 
-**function_detective**<br />
-Private for now. Still detecting.<br />
-`Python`
 
 <img src="assets/rule.svg" alt="" width="100%" />
